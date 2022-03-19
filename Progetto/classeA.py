@@ -19,10 +19,3 @@ class ClassA:
 def stampa():
     cl = ClassA()
     cl.printClassName()
-
-
-
-
-
-
-
