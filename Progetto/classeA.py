@@ -1,5 +1,6 @@
 from Progetto.subproject.SubClassA import SubClassA
 from Progetto.ClasseB import ClassB
+import requests
 
 class ClassA:
     def __init__(self):
